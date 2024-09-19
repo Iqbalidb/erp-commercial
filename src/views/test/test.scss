@@ -1,0 +1,102 @@
+@import "../../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../../@core/scss/base/components/include";
+
+.resizable-data-table {
+  width: 100%;
+  .nested-table-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0;
+  }
+  .fixed-table {
+    width: max-content;
+    border-collapse: collapse;
+    border-right: none;
+    table-layout: fixed;
+    th,
+    td {
+      padding-top: 0px !important;
+      padding-bottom: 1px !important;
+      padding-left: 3.5px !important;
+      padding-right: 3.5px !important;
+      margin-left: 0em;
+      margin-right: 0em;
+      font-size: 12.5px !important;
+      overflow: hidden;
+      white-space: nowrap;
+      -moz-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis;
+      min-width: max-content;
+    }
+  }
+  .bom-po-details-table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-left: none;
+    // flex: 1;
+    position: relative;
+    // z-index: -3;
+    // opacity: 0;
+    .table-responsive {
+      width: 100%;
+      overflow-x: auto;
+    }
+
+    th,
+    td {
+      padding-top: 1.5px !important;
+      padding-bottom: 1.5px !important;
+      padding-left: 3.5px !important;
+      padding-right: 3.5px !important;
+      margin-left: 0em;
+      margin-right: 0em;
+      font-size: 12.5px !important;
+      overflow: hidden;
+      white-space: nowrap;
+      -moz-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis;
+      min-width: 40px;
+    }
+
+    .pagination-container {
+      // display: inline;
+      // position: absolute;
+      // bottom: 0;
+      // width: 100%;
+      // margin: auto;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      .pagination {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+    }
+  }
+  .pagination-select {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .row-per-page {
+      select {
+        margin-left: 1rem;
+        padding: 0.2rem;
+        border: 1px solid #dee2e6 !important;
+        color: $primary;
+      }
+      select:focus {
+        border: 1px solid #dee2e6 !important;
+        color: $primary;
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+@import '../../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../../@core/scss/base/components/include';
+
+.custom-tooltip-table {
+  width: 100%;
+  text-align: left;
+  .table-responsive {
+    width: 100%;
+    // z-index: 1050;
+    // overflow-y: initial;
+  }
+
+  th,
+  td {
+    // text-align: center;
+    min-width: 85px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+    // max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+    color: black;
+  }
+  th,
+  td.sl {
+    min-width: 10px;
+    text-align: center;
+  }
+  th,
+  td.action {
+    min-width: 20px;
+    text-align: center;
+  }
+  .custom-control {
+    z-index: 0;
+  }
+  tbody {
+    margin-bottom: 500px;
+  }
+  .form-control:disabled {
+    background-color: ghostwhite;
+  }
+}
+.details-tooltip {
+  // .bs-tooltip-left .arrow::before,
+  // .bs-tooltip-auto[x-placement^='left'] .arrow::before {
+  //   border-width: 0.4rem 0 0.4rem 0.4rem;
+  //   border-right-color: $tooltip-bg;
+  // }
+
+  // .bs-tooltip-left .arrow,
+  // .bs-tooltip-auto[x-placement^='left'] .arrow {
+  //   left: 0;
+  //   right: auto;
+
+  //   transform: rotate(180deg);
+  // }
+
+  // .bs-tooltip-right .arrow::before,
+  // .bs-tooltip-auto[x-placement^='right'] .arrow::before {
+  //   border-width: 0.4rem 0.4rem 0.4rem 0;
+  //   border-left-color: $tooltip-bg;
+  // }
+
+  // .bs-tooltip-right .arrow,
+  // .bs-tooltip-auto[x-placement^='right'] .arrow {
+  //   right: 0;
+  //   left: auto;
+
+  //   transform: rotate(180deg);
+  // }
+
+  .custom-tooltip-table {
+    width: 100%;
+    text-align: left;
+    .table-responsive {
+      width: 100%;
+      // z-index: 1050;
+      // overflow-y: initial;
+    }
+
+    th,
+    td {
+      // text-align: center;
+      min-width: 85px;
+      padding-top: 1px;
+      padding-bottom: 1px;
+      padding-left: 4px !important;
+      padding-right: 4px !important;
+      // max-width: 121px;
+      margin-left: 0em;
+      margin-right: 0em;
+      color: black;
+    }
+    th,
+    td.sl {
+      min-width: 10px;
+      text-align: center;
+    }
+    th,
+    td.action {
+      min-width: 20px;
+      text-align: center;
+    }
+    .custom-control {
+      z-index: 0;
+    }
+    tbody {
+      margin-bottom: 500px;
+    }
+    .form-control:disabled {
+      background-color: ghostwhite;
+    }
+  }
+}

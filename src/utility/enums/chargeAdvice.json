@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "customerName": "RDM",
+    "lcScNumber": [
+      {
+        "value": "lC38402",
+        "label": "lC38402",
+        "bank": {
+          "id": 1,
+          "bank": "Bank Asia",
+          "branch": "Agrabad Branch",
+          "accounts": [
+            {
+              "value": "011143802202",
+              "label": "011143802202"
+            },
+            {
+              "value": "021163802202",
+              "label": "021163802202"
+            }
+          ],
+          "chargeHeads": [
+            {
+              "value": 1,
+              "label": "Charge Head1"
+            },
+            {
+              "value": 2,
+              "label": "Charge Head2"
+            },
+            {
+              "ïd": 3,
+              "label": "Charge Head3"
+            }
+          ],
+          "transactionCodes": [
+            {
+              "value": 1,
+              "label": "L/C Issuance Fee"
+            },
+            {
+              "value": 2,
+              "label": "Access And Refuse Document"
+            },
+            {
+              "value": 3,
+              "label": "Amendment Fee"
+            }
+          ]
+        }
+      },
+      { "value": "SC84400", "label": "SC84400" }
+    ],
+    "banks": [
+      {
+        "id": 1,
+        "bank": "Bank Asia",
+        "branch": "Agrabad Branch",
+        "account": "011143802202",
+        "chargeHeads": [
+          {
+            "ïd": 1,
+            "chargeHeadName": "Charge Head1"
+          },
+          {
+            "ïd": 2,
+            "chargeHeadName": "Charge Head2"
+          },
+          {
+            "ïd": 3,
+            "chargeHeadName": "Charge Head3"
+          }
+        ],
+        "transactionCodes": [
+          {
+            "id": 1,
+            "tCodeName": "L/C Issuance Fee"
+          },
+          {
+            "id": 2,
+            "tCodeName": "Access And Refuse Document"
+          },
+          {
+            "id": 3,
+            "tCodeName": "Amendment Fee"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "bank": "Exim Bank",
+        "branch": "Hallishahar Branch",
+        "account": "011253802202",
+        "chargeHeads": [
+          {
+            "ïd": 1,
+            "chargeHeadName": "Charge Head4"
+          },
+          {
+            "ïd": 2,
+            "chargeHeadName": "Charge Head5"
+          },
+          {
+            "ïd": 3,
+            "chargeHeadName": "Charge Head6"
+          }
+        ],
+        "transactionCodes": [
+          {
+            "id": 1,
+            "tCodeName": "Deffered Charge Collection"
+          },
+          {
+            "id": 2,
+            "tCodeName": "Advising Fee"
+          },
+          {
+            "id": 3,
+            "tCodeName": "Discrepancy Fee"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "bank": "Prime Bank",
+        "branch": "GEC Branch",
+        "account": "011003802202",
+        "chargeHeads": [
+          {
+            "ïd": 1,
+            "chargeHeadName": "Charge Head7"
+          },
+          {
+            "ïd": 2,
+            "chargeHeadName": "Charge Head8"
+          },
+          {
+            "ïd": 3,
+            "chargeHeadName": "Charge Head9"
+          }
+        ],
+        "transactionCodes": [
+          {
+            "id": 1,
+            "tCodeName": "Confirmation Fee"
+          },
+          {
+            "id": 2,
+            "tCodeName": "Handing Fee"
+          },
+          {
+            "id": 3,
+            "tCodeName": "Reimbursement Fee"
+          }
+        ]
+      }
+    ],
+    "lcscNo": [
+      {
+        "id": 1,
+        "lcsc": "LC01Ad29"
+      },
+      {
+        "id": 2,
+        "lcsc": "SC01Ad29"
+      }
+    ]
+  }
+]

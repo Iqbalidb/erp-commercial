@@ -1,0 +1,165 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+.commercial-form-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: inherit;
+  .flex-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    // margin-top: 20px;
+    border-radius: 10px;
+    gap: 20px;
+
+    .container-box {
+      border: 1px solid $border-color;
+      padding: 3rem;
+      border-radius: 10px;
+      width: 100%;
+      max-width: 900px;
+      margin: 0 auto;
+      .add-icon {
+        display: flex;
+        padding: 0;
+        width: max-content;
+        margin-top: 4px;
+      }
+      .table-container {
+        width: 100%;
+        position: relative;
+        table-layout: fixed;
+
+        tr {
+          position: relative;
+        }
+        thead {
+          .serial-number {
+            width: 40px !important;
+            padding: 0 8px;
+            text-align: center;
+          }
+          .sm-width {
+            width: 60px;
+          }
+        }
+        th,
+        td {
+          padding-top: 1px !important;
+          padding-bottom: 1px !important;
+          padding-left: 8px !important;
+          padding-right: 8px !important;
+          margin-left: 0em;
+          margin-right: 0em;
+          font-size: 12.5px !important;
+          overflow: hidden;
+          white-space: nowrap;
+          -moz-text-overflow: ellipsis;
+          -ms-text-overflow: ellipsis;
+          -o-text-overflow: ellipsis;
+          text-overflow: ellipsis;
+          min-width: 80px;
+        }
+
+        td.empty-td {
+          padding-top: 6px !important;
+        }
+        .action-buttons {
+          padding: 0;
+          margin: 0;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+        }
+      }
+    }
+    .p-1 {
+      padding: 5px 0;
+    }
+    .border-1 {
+      border: 1px solid $border-color;
+      border-radius: 10px;
+    }
+    .flex-col {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      position: relative;
+      .add-icon {
+        border: none;
+        outline: none;
+        width: max-content;
+        background-color: $white;
+        border: 1px solid $green;
+        color: $green;
+        margin-top: 1px;
+      }
+    }
+    .custom-input {
+      display: grid;
+      grid-template-columns: 1fr 3fr;
+      width: 100%;
+      align-items: center;
+      margin-bottom: 4px;
+      padding: 0;
+      label {
+        width: 100%;
+        font-weight: bold;
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+        span {
+          color: $red;
+        }
+      }
+      input {
+        width: 100%;
+        margin: 0;
+      }
+      span {
+        font-weight: bolder;
+      }
+      .input-del-icon {
+        border-radius: 5px;
+        height: 2rem;
+        width: 2.4rem;
+        background-color: rgba(210, 7, 7, 0.075);
+        color: $red;
+        // border: 1px solid red;
+        margin-left: 1.9px;
+        padding: 3px;
+        cursor: pointer;
+      }
+    }
+    .select-input {
+      align-items: flex-start;
+    }
+  }
+}
+@media (max-width: 1350px) {
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 650px) {
+  .flex-container {
+    .container-box {
+      padding: 1rem !important;
+    }
+  }
+}
+
+@media (max-width: 520px) {
+  .flex-container {
+    .container-box {
+      .custom-input {
+        grid-template-columns: 1fr 2fr;
+        label {
+          font-size: 10px;
+        }
+      }
+    }
+  }
+}

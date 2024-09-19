@@ -1,0 +1,13 @@
+// export const ADD_COST_HEAD = "ADD_COST_HEAD";
+// export const GET_COST_HEAD = "GET_COST_HEAD";
+
+
+// export const ADD_INCO_TERMS = "ADD_INCO_TERMS";
+// export const GET_INCO_TERMS = "GET_INCO_TERMS";
+// export const DELETE_INCO_TERMS = "DELETE_INCO_TERMS";
+
+
+export const GET_ALL_INCOTERMS_BY_QUERY = "GET_ALL_INCOTERMS_BY_QUERY";
+export const ADD_INCO_TERMS = "ADD_INCO_TERMS";
+export const BIND_INCO_TERMS = "BIND_INCO_TERMS";
+export const UPDATE_INCO_TERMS = "UPDATE_INCO_TERMS";

@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+src\@core\components\autocomplete\index.js
+    const suggestionList = ReactDOM.findDOMNode( suggestionsListRef.current );
+=======
+src\@core\components\autocomplete\index.js
+    const suggestionList = ReactDOM.findDOMNode( suggestionsListRef.current );
+>>>>>>> e72db4458b41c9e664656c3a7c92967231cab8e0
+to

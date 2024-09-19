@@ -1,0 +1,78 @@
+@import '../../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../../@core/scss/base/components/include';
+
+.dt {
+  // position: relative;
+  .custom-dt-table {
+    width: 100%;
+    table-layout: fixed;
+    .table-responsive {
+      width: 100%;
+    }
+    th {
+      .th-data {
+        display: flex;
+        justify-content: space-between;
+        .icon {
+          opacity: 0;
+          // transform: rotate(90deg);
+        }
+        // .icon::after {
+        //   content: '<';
+        // }
+      }
+    }
+
+    th:hover {
+      cursor: pointer;
+      background-color: rgb(221, 219, 219) !important;
+      .icon {
+        opacity: 1;
+      }
+    }
+
+    th,
+    td {
+      padding-top: 1px !important;
+      padding-bottom: 1px !important;
+      padding-left: 3.5px !important;
+      padding-right: 3.5px !important;
+      margin-left: 0em;
+      margin-right: 0em;
+      font-size: 12.5px !important;
+      overflow: hidden;
+      white-space: nowrap;
+      -moz-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis;
+      width: 20px;
+    }
+  }
+  .pagination-container {
+    // display: inline;
+    // position: absolute;
+    // bottom: 0;
+    // width: 100%;
+    // margin: auto;
+
+    .pagination {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      .row-per-page {
+        margin-left: 2rem;
+        select {
+          margin-left: 1rem;
+          padding: 0.2rem;
+          border: 1px solid #dee2e6 !important;
+          color: $primary;
+        }
+        select:focus {
+          border: 1px solid #dee2e6 !important;
+          color: $primary;
+        }
+      }
+    }
+  }
+}

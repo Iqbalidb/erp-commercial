@@ -1,0 +1,50 @@
+.branch-details-container {
+  padding: 0;
+  .card-body-container {
+    padding: 0px 30px 20px 30px;
+    .header-container {
+      display: grid;
+      grid-template-columns: 6rem auto;
+      align-items: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      p {
+        margin: 0;
+        color: rgb(157, 156, 156);
+        font-weight: bold;
+        font-size: 12px;
+      }
+      div {
+        height: 1px;
+        background-color: lightgray;
+        width: 100%;
+      }
+    }
+  }
+  .title-container {
+    // max-width: 400px;
+    margin: 0 auto;
+
+    p {
+      margin: 0;
+      text-align: center;
+    }
+  }
+  .branch-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    border-bottom: 1px solid rgb(242, 241, 241);
+    padding-bottom: 20px;
+
+    &::before {
+      content: "";
+      position: absolute;
+      font-size: 10rem;
+      opacity: 0.1;
+      line-height: 5rem;
+      left: -20px;
+    }
+  }
+}

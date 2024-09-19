@@ -1,0 +1,61 @@
+ [
+    {
+      "importerProformaInvoiceId": "fb04f03f-98fe-433a-8e9b-72ecf6dd7401",
+      "importerProformaInvoiceDate": "2001-02-01",
+      "importerProformaInvoiceNo": "6431",
+      "importerProformaInvoiceRef": "IPI/2024/112",
+      "supplierId": "d75511df-412d-4ef5-b6c1-dd714c2503d2",
+      "supplierName": "AB TRADING",
+      "buyerId": "00000000-0000-0000-0000-000000000000",
+      "buyerName": null,
+      "purchaser": "ABC APPARELS LTD.",
+      "purpose": "Material",
+      "tradeTerm": "CFR Chattogram, Bangladesh",
+      "payTerm": "LC Deferred/Usance",
+      "source": "Foreign LC",
+      "currencyCode": "USD",
+      "currencyRate": 1,
+      "shipmentMode": "AIR",
+      "shipmentDate": "2024-01-31T00:00:00",
+      "etaDate": "2024-01-31T00:00:00",
+      "status": "Draft",
+      "additionalCharge": 0,
+      "serviceCharge": 0,
+      "deductionAmount": 0,
+      "termsAndConditions": "",
+      "orderDetails": [
+        {
+          "importerProformaInvoiceId": "fb04f03f-98fe-433a-8e9b-72ecf6dd7401",
+          "supplierOrderId": "d6e821e9-4058-42ac-8eb5-43e5080b8441",
+          "supplierOrderNumber": "IPO/2023/193",
+          "categoryId": 5,
+          "category": "Woven Fabric",
+          "subCategoryId": 14,
+          "subCategory": "Woven Fabric",
+          "uom": "MTR",
+          "itemId": "055c67fd-b535-4c57-9d3e-0503d0b1e9a9",
+          "itemCode": "WF-1481",
+          "itemName": "#1428 STRETCH WOVEN/MICRO POLY (WICK) 86/14 POLYESTER/SPANDEX . . WHITE SAND 13-0002 TCX CUTTABLE 58 INCH GSM 115",
+          "quantity": 1,
+          "rate": 1,
+          "amount": 1
+        },
+        {
+          "importerProformaInvoiceId": "fb04f03f-98fe-433a-8e9b-72ecf6dd7401",
+          "supplierOrderId": "d6e821e9-4058-42ac-8eb5-43e5080b8441",
+          "supplierOrderNumber": "IPO/2023/194",
+          "categoryId": 5,
+          "category": "Woven Fabric2",
+          "subCategoryId": 14,
+          "subCategory": "Woven Fabri2",
+          "uom": "MTR",
+          "itemId": "066c67fd-b535-4c58-9d3e-0503d0b2e9a9",
+          "itemCode": "WF-1481",
+          "itemName": "#1428 STRETCH WOVEN/MICRO POLY (WICK) 86/14 POLYESTER/SPANDEX . . WHITE SAND 13-0002 TCX CUTTABLE 58 INCH GSM 115",
+          "quantity": 15,
+          "rate": 1,
+          "amount": 1
+        }
+      ]
+    }
+  ]

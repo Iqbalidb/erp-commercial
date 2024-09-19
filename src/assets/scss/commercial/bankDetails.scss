@@ -1,0 +1,50 @@
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+
+.bank-details-container {
+  position: relative;
+  .card-body-container {
+    padding: 20px 30px;
+  }
+  .header-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4rem auto;
+    align-items: center;
+    margin: 20px 0;
+
+    p {
+      margin: 0;
+      color: rgb(157, 156, 156);
+      font-weight: bold;
+      font-size: 12px;
+    }
+    div {
+      height: 1px;
+      background-color: lightgray;
+      width: 100%;
+    }
+  }
+  .title {
+    text-transform: uppercase;
+    // font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    div {
+      width: 50px;
+      // margin: 0 auto;
+      height: 2px;
+      // background-color: lightgray;
+      border: 1px double rgb(238, 237, 237);
+      // border-style: ;
+    }
+  }
+  .subtitle {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+  }
+}

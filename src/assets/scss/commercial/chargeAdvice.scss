@@ -1,0 +1,87 @@
+.table-container {
+  width: 100%;
+  position: relative;
+  table-layout: fixed;
+  // background-color: red;
+
+  tr {
+    position: relative;
+  }
+  thead {
+    .serial-number {
+      width: 30px !important;
+      padding: 0 8px;
+      text-align: center;
+    }
+    .sm-width {
+      width: 60px;
+    }
+
+    .type {
+      width: 150px;
+    }
+  }
+  tbody {
+    .serial-number-td {
+      width: 30px !important;
+      padding: 0 8px;
+      text-align: center;
+    }
+    .sm-width-td {
+      width: 60px;
+      text-align: center;
+    }
+    .type-width {
+      width: 150px;
+    }
+    .td-width {
+      padding: 5px !important;
+      margin-right: 15px !important;
+      padding-right: 13px !important;
+    }
+  }
+  th {
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    -moz-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    min-width: 80px;
+  }
+
+  td {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    -moz-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    min-width: 80px;
+  }
+
+  td.empty-td {
+    padding-top: 6px !important;
+  }
+  .action-buttons {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

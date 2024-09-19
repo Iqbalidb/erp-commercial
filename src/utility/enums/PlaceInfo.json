@@ -1,0 +1,518 @@
+[
+  {
+    "id": 1,
+    "name": "Bangladesh",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "name": "Port of Mongla"
+      },
+      {
+        "id": 3,
+        "name": "Port of Payra"
+      },
+      {
+        "id": 4,
+        "name": "Matarbari Port"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Italy",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Trieste (ITTRS)"
+      },
+      {
+        "id": 2,
+        "name": "Port of Genoa (ITGOA)"
+      },
+      {
+        "id": 3,
+        "name": "Port of Livorno (ITLIV)"
+      },
+      {
+        "id": 4,
+        "name": "Port of Cagliari (ITCAG)"
+      },
+      {
+        "id": 5,
+        "name": "Port of Gioia Tauro (ITGIT)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Germany",
+    "places": [
+      {
+        "id": 1,
+        "name": "Hamburg Port"
+      },
+      {
+        "id": 2,
+        "name": "Port of Bremen and Bremerhaven"
+      },
+      {
+        "id": 3,
+        "name": "Port of Wilhelmshaven"
+      },
+      {
+        "id": 4,
+        "name": "Port of Duisburg"
+      },
+      {
+        "id": 5,
+        "name": "Port of Rostock"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "France",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Marseille"
+      },
+      {
+        "id": 2,
+        "name": "Port of Dunkerquei"
+      },
+      {
+        "id": 3,
+        "name": "Port of Brest"
+      },
+      {
+        "id": 4,
+        "name": "Port of Le Havre"
+      },
+      {
+        "id": 5,
+        "name": "Port of Calais"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Russia",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Novorossiysk (Krasnodar Krai, Russia)"
+      },
+      {
+        "id": 2,
+        "name": "Port of Saint Petersburg (St. Petersburg, Russia)"
+      },
+      {
+        "id": 3,
+        "name": "Port of Ust-Luga (Kingiseppsky District, Russia)"
+      },
+      {
+        "id": 4,
+        "name": "Port of Vostochny (Nakhodka Bay, Russia)"
+      },
+      {
+        "id": 5,
+        "name": "Port of Murmansk (Kola Bay, Russia)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Canada",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Vancouver"
+      },
+      {
+        "id": 2,
+        "name": "Port of Montreal"
+      },
+      {
+        "id": 3,
+        "name": "Port of Prince Rupert"
+      },
+      {
+        "id": 4,
+        "name": "Port of Halifax"
+      },
+      {
+        "id": 5,
+        "name": "Port of Saint John"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Brazil",
+    "places": [
+      {
+        "id": 1,
+        "name": "Santos Port - SP (Porto de Santos)"
+      },
+      {
+        "id": 2,
+        "name": "Port Of Santarim - PA"
+      },
+      {
+        "id": 3,
+        "name": "Port of Salvador - BA"
+      },
+      {
+        "id": 4,
+        "name": "Port of Vitiria - ES (Porto de Vitiria)"
+      },
+      {
+        "id": 5,
+        "name": "Port of Paranagui - PR (Porto de Paranagui)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chile",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of San Antonio"
+      },
+      {
+        "id": 2,
+        "name": "Port of Valparaiso"
+      },
+      {
+        "id": 3,
+        "name": "Port of Arica"
+      },
+      {
+        "id": 4,
+        "name": "Port of Coquimbo"
+      },
+      {
+        "id": 5,
+        "name": "Port of Iquique"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mexico",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Manzanillo"
+      },
+      {
+        "id": 2,
+        "name": "Port of Lazaro Cardenas"
+      },
+      {
+        "id": 3,
+        "name": "Port of Ensenada"
+      },
+      {
+        "id": 3,
+        "name": "Port of Mazatlan"
+      },
+      {
+        "id": 3,
+        "name": "Port of Veracruz"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Portugal",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Lisbon"
+      },
+      {
+        "id": 2,
+        "name": "Port of Aveiro"
+      },
+      {
+        "id": 3,
+        "name": "Port of Leixoes"
+      },
+      {
+        "id": 4,
+        "name": "Port of Setubal"
+      },
+      {
+        "id": 5,
+        "name": "Port of Sines"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "United Kingdom",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Immingham"
+      },
+      {
+        "id": 2,
+        "name": "Port of Felixstowe"
+      },
+      {
+        "id": 3,
+        "name": "Port of Tees"
+      },
+      {
+        "id": 4,
+        "name": "Port of London"
+      },
+      {
+        "id": 5,
+        "name": "Port of Liverpool"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "United States ",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Houston (Texas, USA)"
+      },
+      {
+        "id": 2,
+        "name": "Port of South Louisiana (Laplace, USA)"
+      },
+      {
+        "id": 3,
+        "name": "Port of New York, NY, and NJ (New York, USA)"
+      },
+      {
+        "id": 4,
+        "name": "Port of CORPUS CHRISTI (Texas, USA)"
+      },
+      {
+        "id": 5,
+        "name": "Port of BEAUMONT (Texas, USA)"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Uganda",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port Bell"
+      },
+      {
+        "id": 2,
+        "name": "Port of Jinja"
+      },
+      {
+        "id": 3,
+        "name": "Tororo inland port"
+      },
+      {
+        "id": 4,
+        "name": "Bukasa Inland Port"
+      },
+      {
+        "id": 5,
+        "name": "Port of Butiaba"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Peru",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Callao"
+      },
+      {
+        "id": 2,
+        "name": "Port of Paita"
+      },
+      {
+        "id": 3,
+        "name": "Port of Matarani"
+      },
+      {
+        "id": 4,
+        "name": "Port of Salaverry"
+      },
+      {
+        "id": 5,
+        "name": "Port of Iquitos"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Uruguay",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Montevideo"
+      },
+      {
+        "id": 2,
+        "name": "Port of Sauce de Juan Lacaze"
+      },
+      {
+        "id": 3,
+        "name": "Port of Nueva Palmira"
+      },
+      {
+        "id": 4,
+        "name": "Port of Fray Bentos"
+      },
+      {
+        "id": 5,
+        "name": "Port of Colonia"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Iran",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Bandar Abbas"
+      },
+      {
+        "id": 2,
+        "name": "Port of Amirabad"
+      },
+      {
+        "id": 3,
+        "name": "Port of Anzali"
+      },
+      {
+        "id": 4,
+        "name": "Port of Nowshahr"
+      },
+      {
+        "id": 5,
+        "name": "Port of Chabahar"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "North Korea",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Nampo"
+      },
+      {
+        "id": 2,
+        "name": "Port of Najin"
+      },
+      {
+        "id": 3,
+        "name": "Port of Chongjin"
+      },
+      {
+        "id": 4,
+        "name": "Port of Rajin/Rason"
+      },
+      {
+        "id": 5,
+        "name": "Port of Haeju"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "South Korea",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Busan"
+      },
+      {
+        "id": 2,
+        "name": "Port of Incheon"
+      },
+      {
+        "id": 3,
+        "name": "Port of Donghae"
+      },
+      {
+        "id": 4,
+        "name": "Port of Masan"
+      },
+      {
+        "id": 5,
+        "name": "Port of Gunsan"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Argentina",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Buenos Aires"
+      },
+      {
+        "id": 2,
+        "name": "Port of Dock Sud"
+      },
+      {
+        "id": 3,
+        "name": "Ports of Bahia Blanca"
+      },
+      {
+        "id": 4,
+        "name": "Port of La Plata"
+      },
+      {
+        "id": 5,
+        "name": "Port of Quequen"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ukraine",
+    "places": [
+      {
+        "id": 1,
+        "name": "Port of Odessa"
+      },
+      {
+        "id": 2,
+        "name": "Port of Chernomorsk"
+      },
+      {
+        "id": 3,
+        "name": "Port of Yuzhny"
+      },
+      {
+        "id": 4,
+        "name": "Port of Berdyansk"
+      },
+      {
+        "id": 5,
+        "name": "Port of Mariupol"
+      }
+    ]
+  }
+]

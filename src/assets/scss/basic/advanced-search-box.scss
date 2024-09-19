@@ -1,0 +1,18 @@
+.search-box-root {
+  ///
+  margin-top: 10px;
+
+  .card-transition {
+    transition-duration: 1.2s;
+    transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
+  }
+
+  .search-box {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    flex: 1 1 auto;
+    min-height: 1px;
+    border-radius: 0.428rem;
+    border: 1px solid #ebe9f1;
+  }
+}

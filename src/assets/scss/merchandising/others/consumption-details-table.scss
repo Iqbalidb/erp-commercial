@@ -1,0 +1,27 @@
+@import '../../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../../@core/scss/base/components/include';
+
+.consumption-details-table {
+  width: 100%;
+  .table-responsive {
+    width: 100%;
+  }
+  th,
+  td {
+    // text-align: center;
+    min-width: 105px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    // max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+  }
+  th,
+  td:nth-child(1) {
+    min-width: 4px;
+    padding: 1px;
+  }
+}

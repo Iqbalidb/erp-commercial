@@ -1,0 +1,103 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+.branch-form-container {
+  padding: 1rem;
+  .title {
+    display: grid;
+    grid-template-columns: 8rem auto;
+    align-items: center;
+    p {
+      margin: 0;
+      //   color: rgb(157, 156, 156);
+      color: $primary;
+      font-weight: bold;
+      font-size: 12px;
+    }
+    div {
+      height: 1px;
+      background-color: $light;
+      width: 100%;
+    }
+  }
+  .form {
+    padding: 3rem;
+    border: 1px solid $border-color;
+    border-radius: 10px;
+    margin-top: 20px;
+    .custom-input {
+      display: grid;
+      grid-template-columns: 1fr 3fr;
+      width: 100%;
+      align-items: center;
+      margin-bottom: 4px;
+      padding: 0;
+      label {
+        width: 100%;
+        font-weight: bold;
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+        span {
+          color: $red;
+        }
+      }
+      input {
+        width: 100%;
+        margin: 0;
+      }
+      span {
+        font-weight: bolder;
+      }
+      .input-del-icon {
+        border-radius: 5px;
+        height: 2rem;
+        width: 2.4rem;
+        background-color: rgba(210, 7, 7, 0.075);
+        color: $red;
+        margin-left: 1.9px;
+        padding: 3px;
+        cursor: pointer;
+      }
+    }
+  }
+}
+.contact-number-table {
+  width: 100%;
+  .table-responsive {
+    width: 100%;
+    // overflow-y: initial;
+  }
+  th {
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 0px;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+    max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+  }
+
+  td {
+    // text-align: center;
+
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+    padding-top: 3px !important;
+    padding-bottom: 3px !important;
+    max-width: 121px;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+  }
+
+  th.action {
+    width: 5px;
+  }
+  td.action {
+    padding-left: 5px;
+    padding-right: 0px;
+    text-align: center;
+  }
+}

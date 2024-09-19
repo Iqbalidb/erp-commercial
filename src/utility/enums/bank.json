@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "Organisation": "Islami Bank Bangladesh Limited",
+    "shortName": "IBBL",
+    "swiftCode": "IBBLBDDH103",
+    "status": "Active",
+    "branchInfo": [
+      {
+        "id": 1,
+        "branchName": "Agrabad Branch",
+        "branchCode": "406",
+        "routingNumber": "125150130",
+        "email": "badamtali406101@islamibankbd.com",
+        "contactPerson": "MD.SAIFUR RAHMAN",
+        "contactNo": "01817144747",
+        "faxNumber": "(031) 2511381",
+        "address": "Badamtali Sub-Branch, K. N. Tower, Holding No. 18, Sheikh Mujibur Rahman Sarok, Ward No. 28, P.S: Doublemooring, Chattogram City Corporation, Dist.: Chattogram",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "406",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Ali Hossain",
+            "accountNumber": "20507770274048215",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "406",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Md Elias",
+            "accountNumber": "20507770274042023",
+            "accountOwner": "Supplier"
+          },
+          {
+            "id": 3,
+            "branchCode": "406",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Sakibur Rahman",
+            "accountNumber": "20507770274042016",
+            "accountOwner": "Supplier"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "branchName": "Pahartali Branch, Chattogram",
+        "branchCode": "592",
+        "routingNumber": "125155922",
+        "email": "pahartali@islamibankbd.com",
+        "contactPerson": "Muhammad Jamal Uddin",
+        "contactNo": "01730-739978",
+        "faxNumber": "(031) 2771032, 752599",
+        "address": "Hajee Abdul Ali Shopping Arcade, 6191/6965 Dhaka Trunk Road, Pahartali, Chattogram",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "592",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Kamurl Hossain",
+            "accountNumber": "2050777598628215",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "592",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Md Iqbal",
+            "accountNumber": "20507770274458695",
+            "accountOwner": "Supplier"
+          },
+          {
+            "id": 3,
+            "branchCode": "592",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Siam Meah",
+            "accountNumber": "4598756215478965",
+            "accountOwner": "Supplier"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "branchName": "AD Branch",
+        "branchCode": "304",
+        "routingNumber": "125155801",
+        "email": "ornizamroad@islamibankbd.com",
+        "contactPerson": "SOHEL AMAN",
+        "contactNo": "01713-258791",
+        "faxNumber": "(031) 2557447",
+        "address": "Sanmar Tower -One (2nd and 3rd Floor), 5914/C CDA Avenue, East Nasirabad, 15 no Bagmoniram Ward, Post Office: Chattogram Medical College-4203, PS: Panchlaish, Chattogram",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "304",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Akbor Ali",
+            "accountNumber": "6987546324587695",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "304",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Amena Akter",
+            "accountNumber": "2145698753214568",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 3,
+            "branchCode": "304",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Riye Rahman",
+            "accountNumber": "5874589654123587",
+            "accountOwner": "Supplier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Organisation": "Dutch Bangla Bank limited",
+    "shortName": "DBBL",
+    "swiftCode": "DBBLBDDH103",
+    "status": "Active",
+    "branchInfo": [
+      {
+        "id": 1,
+        "branchName": "Agrabad Branch",
+        "branchCode": "639",
+        "routingNumber": "202350130",
+        "email": "agrabad406101@dbbl.com",
+        "contactPerson": "MD.Mizanur RAHMAN",
+        "contactNo": "01977143636",
+        "faxNumber": "(031) 2533470",
+        "address": "Agrabad Sub-Branch, Sheikh Mujibur Rahman Sarok, Ward No. 28, P.S: Doublemooring, Chattogram City Corporation, Dist.: Chattogram",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "639",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Kamal Hossain",
+            "accountNumber": "20507770274041992",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "639",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Md Alomgir",
+            "accountNumber": "20507770274041988",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 3,
+            "branchCode": "639",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Shimu Rahman",
+            "accountNumber": "2050777027404525",
+            "accountOwner": "Supplier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Organisation": "The City Bank Limited",
+    "shortName": "CITY BANK",
+    "swiftCode": "CIBLBDDH",
+    "status": "Active",
+    "branchInfo": [
+      {
+        "id": 1,
+        "branchName": "Agrabad Branch",
+        "branchCode": "013",
+        "routingNumber": "225150135",
+        "email": "Agrabad@thecitybank.com",
+        "contactPerson": "Unkouwn",
+        "contactNo": "01971747444",
+        "faxNumber": "N/A",
+        "address": "Banani Complex, 942/A Sk Mujib Road, Chittagong",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "013",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Jamal Hossain",
+            "accountNumber": "98654789652478562",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "013",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Md Shohan",
+            "accountNumber": "56324785156987562",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 3,
+            "branchCode": "013",
+            "accountType": "Savings",
+            "typeCode": "DP",
+            "accountName": "Shimul Ahmed",
+            "accountNumber": "45879856247859657",
+            "accountOwner": "Supplier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Organisation": "Basic Bank Limited",
+    "shortName": "BASIC BANK",
+    "swiftCode": "BKSIBDDH008",
+    "status": "Active",
+    "branchInfo": [
+      {
+        "id": 1,
+        "branchName": "Agrabad Branch",
+        "branchCode": "08",
+        "routingNumber": "55150134",
+        "email": "alamdi@basicbanklimited.com",
+        "contactPerson": "Mohammad Didarul Alam",
+        "contactNo": "01711208588",
+        "faxNumber": "031-714822",
+        "address": "Pine View (Ground floor), 100 Agrabad C/A, Chattogram- 4100. ",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "08",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Sagor Hossain",
+            "accountNumber": "98569869652478562",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "08",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Jamal Uddin",
+            "accountNumber": "56986785156987562",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 3,
+            "branchCode": "08",
+            "accountType": "Savings",
+            "typeCode": "DP",
+            "accountName": "Raju Ahmed",
+            "accountNumber": "45879856247569867",
+            "accountOwner": "Supplier"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "branchName": "Asadgonj Branch",
+        "branchCode": "16",
+        "routingNumber": "55150589",
+        "email": "chowdhurym@basicbanklimited.com",
+        "contactPerson": "Majir Uddin Ahmed Chowdhury",
+        "contactNo": "01713444213",
+        "faxNumber": "031-614942",
+        "address": "M.A. Salam Market, 774, Asadgonj, Chattogram- 4100.",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "16",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Jamal Hossain",
+            "accountNumber": "6548951475623654",
+            "accountOwner": "Supplier"
+          },
+          {
+            "id": 2,
+            "branchCode": "16",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Md Shohan",
+            "accountNumber": "5647895462587569",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 3,
+            "branchCode": "16",
+            "accountType": "Savings",
+            "typeCode": "DP",
+            "accountName": "Shimul Ahmed",
+            "accountNumber": "48759565478568758",
+            "accountOwner": "Supplier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Organisation": "United Commercial Bank Limited",
+    "shortName": "UCB",
+    "swiftCode": "UCBLBDDHAGB",
+    "status": "Active",
+    "branchInfo": [
+      {
+        "id": 1,
+        "branchName": "Agrabad Branch",
+        "branchCode": "245",
+        "routingNumber": "245150131",
+        "email": "agb@ucb.com.bd",
+        "contactPerson": "Unkouwn",
+        "contactNo": "+88-031-710706",
+        "faxNumber": "N/A",
+        "address": "Kashfia Plaza, 923/A Sheikh Mujib Road, Agrabad C/A, Chittagong 4000",
+        "accountInfo": [
+          {
+            "id": 1,
+            "branchCode": "245",
+            "accountType": "Deposit",
+            "typeCode": "DP",
+            "accountName": "Rofiq Hossain",
+            "accountNumber": "6985326547895486",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 2,
+            "branchCode": "245",
+            "accountType": "Savings",
+            "typeCode": "AC",
+            "accountName": "Shohan",
+            "accountNumber": "4785965874589658",
+            "accountOwner": "Buyer"
+          },
+          {
+            "id": 3,
+            "branchCode": "245",
+            "accountType": "Savings",
+            "typeCode": "DP",
+            "accountName": "Jalal Ahmed",
+            "accountNumber": "6969595868964521",
+            "accountOwner": "Supplier"
+          }
+        ]
+      }
+    ]
+  }
+]

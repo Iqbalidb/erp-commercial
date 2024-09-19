@@ -1,0 +1,57 @@
+@import "../../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../../@core/scss/base/components/include";
+
+.bom-po-details-table {
+  width: 100%;
+  table-layout: fixed;
+  .table-responsive {
+    width: 100%;
+  }
+
+  th,
+  td {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    padding-left: 3.5px !important;
+    padding-right: 3.5px !important;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    -moz-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    min-width: 80px;
+  }
+
+  .pagination-container {
+    // display: inline;
+    // position: absolute;
+    // bottom: 0;
+    // width: 100%;
+    // margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    .pagination {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      .row-per-page {
+        select {
+          margin-left: 1rem;
+          padding: 0.2rem;
+          border: 1px solid #dee2e6 !important;
+          color: $primary;
+        }
+        select:focus {
+          border: 1px solid #dee2e6 !important;
+          color: $primary;
+        }
+      }
+    }
+  }
+}

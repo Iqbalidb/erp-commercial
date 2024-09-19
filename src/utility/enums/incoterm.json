@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "termsName": "Ex Works",
+    "shortName": "EXW",
+    "versionYear": "2020",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Unloading Charge"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Delivered Charge"
+      },
+      {
+        "id": 3,
+        "costHeadName": "Wages Cost"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "termsName": "Free Carrier",
+    "shortName": "FCA",
+    "versionYear": "2020",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Transportation Cost"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Terminal handling charge"
+      },
+      {
+        "id": 3,
+        "costHeadName": "Documentation charges"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "termsName": "Carriage Paid To",
+    "shortName": "CPT",
+    "versionYear": "2020",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "loading Charge"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Carton Box"
+      },
+      {
+        "id": 3,
+        "costHeadName": "Custom expenses"
+      },
+      {
+        "id": 4,
+        "costHeadName": "Port charges"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "termsName": "Carriage and Insurance Paid To",
+    "shortName": "CIT",
+    "versionYear": "2023",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Terminal handling charge"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Documentation charges"
+      },
+      {
+        "id": 3,
+        "costHeadName": "loading Charge"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "termsName": "Delivered at Place",
+    "shortName": "DAP",
+    "versionYear": "2023",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Unloading Charge"
+      },
+
+      {
+        "id": 2,
+        "costHeadName": "Wages Cost"
+      },
+
+      {
+        "id": 3,
+        "costHeadName": "Terminal handling charge"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "termsName": "Delivered at Place Unloaded",
+    "shortName": "DPU",
+    "versionYear": "2015",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Wages Cost"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Terminal handling charge"
+      },
+      {
+        "id": 3,
+        "costHeadName": "loading Charge"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "termsName": "Delivered Duty Paid",
+    "shortName": "DDP",
+    "versionYear": "2015",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Terminal handling charge"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Documentation charges"
+      },
+      {
+        "id": 3,
+        "costHeadName": "loading Charge"
+      },
+      {
+        "id": 4,
+        "costHeadName": "Carton Box"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "termsName": "Free Alongside Ship",
+    "shortName": "FAS",
+    "versionYear": "2010",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Unloading Charge"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Wages Cost"
+      },
+      {
+        "id": 3,
+        "costHeadName": "Documentation charges"
+      },
+      {
+        "id": 4,
+        "costHeadName": "Port charges"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "termsName": "Free On Board",
+    "shortName": "FOB",
+    "versionYear": "2015",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Wages Cost"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Transportation Cost"
+      },
+      {
+        "id": 3,
+        "costHeadName": "Port charges"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "termsName": "Cost and Freight",
+    "shortName": "CFR",
+    "versionYear": "2002",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Transportation Cost"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Terminal handling charge"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "termsName": "Cost Insurance and Freight",
+    "shortName": "CIF",
+    "versionYear": "2002",
+    "costHeads": [
+      {
+        "id": 1,
+        "costHeadName": "Unloading Charge"
+      },
+      {
+        "id": 2,
+        "costHeadName": "Delivered Charge"
+      },
+      {
+        "id": 3,
+        "costHeadName": "Wages Cost"
+      }
+    ]
+  }
+]

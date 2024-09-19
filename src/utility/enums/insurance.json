@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Popular Life Insurance Co. Ltd.",
+    "address": "58, Bangladesh Timber Building, Hathazari Road, Near Mirzapul, Panchlaish, Muradpur, Chattogram 4000",
+    "phoneNumber": "01817252946",
+    "faxNumber": "(031) 4579759",
+    "contactPerson": "Md Hasan"
+  },
+  {
+    "id": 2,
+    "name": "Bangladesh National Insurance Company Ltd",
+    "address": "102- 103, World Trade Center, Agrabad C/A, Chattogram 4100",
+    "phoneNumber": "031-721408",
+    "faxNumber": "(031) 4578454",
+    "contactPerson": "Ali Hossainn"
+  },
+  {
+    "id": 3,
+    "name": "Progressive Life Insurance Company Limited",
+    "address": "CRJ9+7W6, Chittagong - Rangamati Road",
+    "phoneNumber": "+960 774-53786",
+    "faxNumber": "(031) 2511381",
+    "contactPerson": "Md Murad"
+  },
+  {
+    "id": 4,
+    "name": "Central Italy Insurance Agency",
+    "address": "Via Ubaldino Peruzzi, 63, 00139 Roma RM, Italy",
+    "phoneNumber": "01817-252946",
+    "faxNumber": "(031) 5896875",
+    "contactPerson": "Md Monir"
+  },
+  {
+    "id": 5,
+    "name": "GE insurance agenzia di assicurazioni",
+    "address": "296H+4C Rome, Metropolitan City of Rome Capital, Italy",
+    "phoneNumber": "+393495984390",
+    "faxNumber": "(031) 2459875",
+    "contactPerson": "Daniel Vettori "
+  },
+  {
+    "id": 6,
+    "name": "Pioneer Insurance Company Limited",
+    "address": "2nd Floor, Tower-B building, Banani Complex (Cinema & Shopping) Ltd., 942/A, S.K. Mujib Road, Bangabondhu Road, Agrabad, C/A,, Chattogram",
+    "phoneNumber": "01777-737404",
+    "faxNumber": "(031) 2548756",
+    "contactPerson": "Md Jahangir "
+  },
+  {
+    "id": 7,
+    "name": "National Life Insurance Company Limited",
+    "address": "8RH7+P3W, Sheikh Mujib Rd, Chattogram",
+    "phoneNumber": "01921-493099",
+    "faxNumber": "(031) 6985758",
+    "contactPerson": "Md Kamrul Islam "
+  },
+  {
+    "id": 8,
+    "name": "Federal Insurance Company Limited",
+    "address": "8RG7+JC2, Chattogram",
+    "phoneNumber": "01312-266876",
+    "faxNumber": "(031) 4526897",
+    "contactPerson": "Alamin Hossain"
+  },
+  {
+    "id": 9,
+    "name": "Sandhani Life Insurance ",
+    "address": "MM Tower, GEC Circle, 1105 CDA Ave, Chattogram 4200",
+    "phoneNumber": "N/A",
+    "faxNumber": "(031) 2456987",
+    "contactPerson": "Sowkat Jaman"
+  },
+  {
+    "id": 10,
+    "name": "AXA Life Insurance ",
+    "address": "1 Chome-17-3 Shirokane, Minato City, Tokyo 108-0072, Japan",
+    "phoneNumber": "+81367377777",
+    "faxNumber": "(031) 6985745",
+    "contactPerson": "Aung-chu-hau "
+  },
+  {
+    "id": 11,
+    "name": "Central Italy Insurance Agency",
+    "address": "Via Ubaldino Peruzzi, 63, 00139 Roma RM, Italy",
+    "phoneNumber": "N/A",
+    "faxNumber": "(031) 2365487",
+    "contactPerson": "Michel Finn "
+  },
+  {
+    "id": 12,
+    "name": "Psc Insurance Brokers S.R.L.",
+    "address": "VGJ9+VQ Rome, Metropolitan City of Rome Capital, Italy",
+    "phoneNumber": "+390670309282",
+    "faxNumber": "(031) 1547852",
+    "contactPerson": "Jhemmy Nisham "
+  }
+]

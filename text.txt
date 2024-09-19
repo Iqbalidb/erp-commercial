@@ -1,0 +1,16 @@
+ className={classNames( `erp-dropdown-select ${( ( errors.documentType && !masterDocumentInfo.documentType ) ) && 'is-invalid'} ` )}
+
+  invalid={( errors && errors?.exportNumber && !masterDocumentInfo?.exportNumber ) && true}
+
+
+getBackToBackDropdownCm
+
+
+  const { userPermission, defaultTenant, defaultTenantId } = useSelector( ( { auth } ) => auth );
+
+  const getTenantName = ( id ) => {
+    const { tenants } = defaultTenant;
+
+    const selectedTenant = tenants?.find( t => t.id.toLowerCase() === id.toLowerCase() );
+    return selectedTenant?.name ?? '';
+  };

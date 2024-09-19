@@ -1,0 +1,105 @@
+// @import "../../../@core/scss/base/bootstrap-extended/include";
+// @import "../../../@core/scss/base/components/include";
+// .card-layout-container {
+//   .card-body-container {
+//     padding: 20px 30px;
+//     .title-container {
+//       display: grid;
+//       grid-template-columns: max-content auto;
+//       gap: 10px;
+//       align-items: center;
+//       margin-bottom: 10px;
+//       p {
+//         margin: 0;
+//         color: $title;
+//         font-weight: bold;
+//         font-size: 12px;
+//       }
+//       div {
+//         height: 1px;
+//         background-color: $border-color;
+//         width: 100%;
+//       }
+//     }
+//   }
+// }
+
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+
+.card-layout-container {
+  .card-body-container {
+    padding: 20px 30px;
+    position: relative;
+    isolation: isolate;
+    min-height: 200px;
+
+    // background-color: white;
+    .title-container {
+      display: grid;
+      grid-template-columns: max-content auto;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 10px;
+
+      p {
+        margin: 0;
+        color: $title;
+        font-weight: bold;
+        font-size: 12px;
+      }
+
+      div {
+        height: 1px;
+        background-color: $border-color;
+        width: 100%;
+      }
+    }
+  }
+  .card-body-container-nested {
+    padding: 20px 30px;
+    position: relative;
+    isolation: isolate;
+    min-height: 200px;
+
+    // background-color: white;
+    .title-container {
+      display: grid;
+      grid-template-columns: max-content auto;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 10px;
+
+      p {
+        margin: 0;
+        color: $title;
+        font-weight: bold;
+        font-size: 12px;
+      }
+
+      div {
+        height: 1px;
+        background-color: $border-color;
+        width: 100%;
+      }
+    }
+  }
+
+  .card-body-container::after {
+    content: "";
+    background-image: url(../../images/backgrounds/bg-1.svg);
+    // background-position: right top;
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    opacity: 0.3;
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipV;
+    -ms-filter: "FlipV";
+  }
+}

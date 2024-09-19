@@ -1,0 +1,15 @@
+.erp-input-container {
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+  align-items: center;
+}
+.erp-select-span {
+  padding-right: 1rem;
+}
+
+.large-erp-input-container {
+  display: grid;
+  grid-template-columns: max-content auto;
+  align-items: center;
+  gap: 40px;
+}

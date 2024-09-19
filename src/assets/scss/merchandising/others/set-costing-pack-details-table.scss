@@ -1,0 +1,41 @@
+@import '../../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../../@core/scss/base/components/include';
+
+.set-costing-pack-details-table {
+  width: 100%;
+  table-layout: fixed;
+  .table-responsive {
+    width: 100%;
+  }
+
+  th,
+  td {
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    padding-left: 3.5px !important;
+    padding-right: 3.5px !important;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-size: 12.5px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    -moz-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    min-width: 80px;
+  }
+
+  .no-record {
+    text-align: center;
+    td {
+      padding: 25px 0 25px 0px !important;
+    }
+  }
+
+  // th,
+  // td:nth-child(1) {
+  //   width: 4px;
+  //   padding: 1px;
+  // }
+}

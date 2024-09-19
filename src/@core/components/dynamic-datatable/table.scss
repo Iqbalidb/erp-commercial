@@ -1,0 +1,107 @@
+$header-color: #f9fafb;
+$header-text: #60646c;
+$fixed-cell-bg: #f9f9fb;
+$cell-border-color: #e0e1e69f;
+.fixed-and-resize-table-container {
+  .resize-and-fixed-table {
+    table-layout: fixed;
+    width: 100%;
+    th,
+    td {
+      margin-left: 0em;
+      margin-right: 0em;
+      font-size: 12.5px !important;
+      overflow: hidden;
+      white-space: nowrap;
+      -moz-text-overflow: ellipsis;
+      -ms-text-overflow: ellipsis;
+      -o-text-overflow: ellipsis;
+      text-overflow: ellipsis !important;
+      outline: 1px solid $cell-border-color;
+      border: none;
+      padding: 5px;
+      min-width: 80px;
+      // width: 80px;
+      // word-break: normal;
+      -webkit-min-width: 80px;
+    }
+
+    thead {
+      background-color: $header-color;
+      // position: -webkit-sticky !important;
+      // position: sticky !important;
+      // z-index: 10;
+      top: 0;
+      tr {
+        .table-header {
+          color: $header-text;
+          position: sticky;
+          top: 0;
+          p {
+            &:hover {
+              .fixed-icon {
+                display: block;
+              }
+            }
+            .fixed-icon {
+              display: none;
+              position: absolute;
+              right: 2px;
+              top: -10%;
+              // transform: translateY(-55%);
+              cursor: pointer;
+              z-index: 1;
+            }
+          }
+        }
+      }
+    }
+    tr {
+      .fixed-cell {
+        position: -webkit-sticky !important;
+        position: sticky !important;
+        z-index: 1;
+        background-color: $fixed-cell-bg;
+        // box-shadow: inset 1px 0 0 lightgray, inset 1px 0 0 lightgray;
+        outline: 0.5px solid $cell-border-color;
+        border: none;
+        &:last-child {
+          // background-color: red !important;
+        }
+      }
+
+      &:hover {
+        background-color: rgba(102, 51, 153, 0.199);
+      }
+    }
+    .selected-row {
+      background-color: rgba(102, 51, 153, 0.068);
+    }
+    // }
+
+    // }
+  }
+}
+
+/* width */
+// ::-webkit-scrollbar {
+//   width: 8px;
+//   height: 8px;
+//   border-radius: 10px;
+// }
+
+// /* Track */
+// ::-webkit-scrollbar-track {
+//   background: lightgray;
+// }
+
+// /* Handle */
+// ::-webkit-scrollbar-thumb {
+//   background: rgb(160, 158, 158);
+//   border-radius: 10px;
+// }
+
+// /* Handle on hover */
+// ::-webkit-scrollbar-thumb:hover {
+//   background: gray;
+// }

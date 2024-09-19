@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "documentType": "LC",
+    "exportId": "LC01Ad29",
+    "exportNumber": "9830300",
+    "exportDate": "02-01-2023",
+    "exportRcvDate": "05-01-2023",
+    "comRef": "QV038782",
+    "buyer": "Decathlon",
+    "exportPI": "EPI-86465",
+    "beneficiary": "RDM Group",
+    "openingBank": "Islami Bank Bangladesh Limited",
+    "lienBank": "Islami Bank Bangladesh Limited",
+    "lienDate": "1-01-2023",
+    "rcvTbank": "The City Bank Limited",
+    "currency": "BDT",
+    "conversionRate": 105.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 121.5,
+    "tolerance": 3,
+    "shipDate": "31-12-2023",
+    "exportPurpose": "Printing",
+    "maxImportLimit": 8,
+    "expiryDate": "01-01-2024",
+    "exportNature": "Pre Sales Export LC",
+    "incoterm": "EXW",
+    "incotermPlace": "Canada",
+    "freightAmount": 8000,
+    "payTerm": "At Sight",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "KDS",
+    "notifyParty": "Decathlon",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "Italy",
+        "place": "Port of Genoa (ITGOA)"
+      },
+      {
+        "id": 2,
+        "countryName": "Italy",
+        "place": "Port of Livorno (ITLIV)"
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": true,
+    "isTransferable": false,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": false,
+    "isGroup": true
+  },
+  {
+    "id": 2,
+    "documentType": "LC",
+    "exportId": "LC01Ad30",
+    "exportNumber": "9830301",
+    "exportDate": "02-02-2023",
+    "exportRcvDate": "05-02-2023",
+    "comRef": "QV038783",
+    "buyer": "VF Asia",
+    "exportPI": "EPI-86466",
+    "beneficiary": "RDM Group",
+    "openingBank": "The City Bank Limited",
+    "lienBank": "The City Bank Limited",
+    "lienDate": "1-07-2023",
+    "rcvTbank": "Basic Bank Limited",
+    "currency": "BDT",
+    "conversionRate": 105.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 121.5,
+    "tolerance": 3,
+    "shipDate": "31-12-2023",
+    "exportPurpose": "Garments",
+    "maxImportLimit": 8,
+    "expiryDate": "01-01-2024",
+    "exportNature": "Pre Sales Export LC",
+    "incoterm": "FCA",
+    "incotermPlace": "Germany",
+    "freightAmount": 8000,
+    "payTerm": "Usance",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "Young One",
+    "notifyParty": "VF Asia",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "Germany",
+        "place": "Hamburg Port"
+      },
+      {
+        "id": 2,
+        "countryName": "Germany",
+        "place": "Port of Bremen and Bremerhaven"
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": false,
+    "isTransferable": true,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": true,
+    "isGroup": false
+  },
+  {
+    "id": 3,
+    "documentType": "SC",
+    "exportId": "SC01Ad31",
+    "exportNumber": "9830302",
+    "exportDate": "02-03-2023",
+    "exportRcvDate": "05-03-2023",
+    "comRef": "QV038784",
+    "buyer": "Bern",
+    "exportPI": "EPI-86467",
+    "beneficiary": "RDM Group",
+    "openingBank": "Basic Bank Limited",
+    "lienBank": "Basic Bank Limited",
+    "lienDate": "1-08-2023",
+    "rcvTbank": "United Commercial Bank Limited",
+    "currency": "BDT",
+    "conversionRate": 115.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 131.5,
+    "tolerance": 3,
+    "shipDate": "28-02-2023",
+    "exportPurpose": "Washing",
+    "maxImportLimit": 8,
+    "expiryDate": "01-03-2024",
+    "exportNature": "Post Sales Export SC",
+    "incoterm": "CPT",
+    "incotermPlace": "France",
+    "freightAmount": 4000,
+    "payTerm": "At Sight",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "Four H Group",
+    "notifyParty": "Bern",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "France",
+        "place": "Port of Marseille"
+      },
+      {
+        "id": 2,
+        "countryName": "France",
+        "place": "Port of Dunkerque "
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": true,
+    "isTransferable": true,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": true,
+    "isGroup": true
+  },
+  {
+    "id": 4,
+    "documentType": "LC",
+    "exportId": "LC01Ad32",
+    "exportNumber": "9830303",
+    "exportDate": "02-04-2023",
+    "exportRcvDate": "05-04-2023",
+    "comRef": "QV038786",
+    "buyer": "Colombia",
+    "exportPI": "EPI-86468",
+    "beneficiary": "RDM Group",
+    "openingBank": "United Commercial Bank Limited",
+    "lienBank": "United Commercial Bank Limited",
+    "lienDate": "1-Sep-2023",
+    "rcvTbank": "The National Bank Limited",
+    "currency": "BDT",
+    "conversionRate": 95.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 111.5,
+    "tolerance": 3,
+    "shipDate": "30-04-2023",
+    "exportPurpose": "Printing",
+    "maxImportLimit": 8,
+    "expiryDate": "01-05-2024",
+    "exportNature": "Pre Sales Export LC",
+    "incoterm": "CIT",
+    "incotermPlace": "Brazil",
+    "freightAmount": 8000,
+    "payTerm": "At Sight",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "KDS",
+    "notifyParty": "Colombia",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "Brazil",
+        "place": "Port of Salvador BA"
+      },
+      {
+        "id": 2,
+        "countryName": "Brazil",
+        "place": "Port of Vitoria"
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": true,
+    "isTransferable": false,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": false,
+    "isGroup": true
+  },
+  {
+    "id": 5,
+    "documentType": "SC",
+    "exportId": "Sc01Ad33",
+    "exportNumber": "9830304",
+    "exportDate": "02-05-2023",
+    "exportRcvDate": "05-05-2023",
+    "comRef": "QV038782",
+    "buyer": "Canada SportsWear",
+    "exportPI": "EPI-86469",
+    "beneficiary": "RDM Group",
+    "openingBank": "Islami Bank Bangladesh Limited",
+    "lienBank": "Islami Bank Bangladesh Limited",
+    "lienDate": "1-Oct-2023",
+    "rcvTbank": "The City Bank Limited",
+    "currency": "BDT",
+    "conversionRate": 125.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 141.5,
+    "tolerance": 3,
+    "shipDate": "31-05-2023",
+    "exportPurpose": "Printing",
+    "maxImportLimit": 8,
+    "expiryDate": "01-06-2024",
+    "exportNature": "Post Sales Export SC",
+    "incoterm": "FOB",
+    "incotermPlace": "Russia",
+    "freightAmount": 8000,
+    "payTerm": "At Sight",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "KDS",
+    "notifyParty": "Russia SportsWear",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "Russia",
+        "place": "Port of Saint Petersburg (St. Petersburg, Russia)"
+      },
+      {
+        "id": 2,
+        "countryName": "Russia",
+        "place": "Port of Novorossiysk (Krasnodar Krai, Russia)"
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": true,
+    "isTransferable": false,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": false,
+    "isGroup": true
+  },
+  {
+    "id": 6,
+    "documentType": "LC",
+    "exportId": "LC01Ad34",
+    "exportNumber": "9830305",
+    "exportDate": "02/06/2023",
+    "exportRcvDate": "05/06/2023",
+    "comRef": "QV038787",
+    "buyer": "Decathlon",
+    "exportPI": "EPI-86470",
+    "beneficiary": "RDM Group",
+    "openingBank": "The City Bank Limited",
+    "lienBank": "The City Bank Limited",
+    "lienDate": "1-06-2023",
+    "rcvTbank": "Islami Bank Bangladesh Limited",
+    "currency": "BDT",
+    "conversionRate": 85.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 103.5,
+    "tolerance": 3,
+    "shipDate": "30/06/2023",
+    "exportPurpose": "Garments",
+    "maxImportLimit": 8,
+    "expiryDate": "01-07-2024",
+    "exportNature": "Post Sales Export LC",
+    "incoterm": "DAP",
+    "incotermPlace": "Ukraine",
+    "freightAmount": 8000,
+    "payTerm": "At Sight",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "Azim Group",
+    "notifyParty": "Decathlon",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "Ukraine",
+        "place": "Port of Yuzhny"
+      },
+      {
+        "id": 2,
+        "countryName": "Ukraine",
+        "place": "Port of Berdyansk"
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": true,
+    "isTransferable": true,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": true,
+    "isGroup": true
+  },
+  {
+    "id": 7,
+    "documentType": "LC",
+    "exportId": "LC01Ad35",
+    "exportNumber": "9830306",
+    "exportDate": "02/07/2023",
+    "exportRcvDate": "05/07/2023",
+    "comRef": "QV038788",
+    "buyer": "Haggar Clothing",
+    "exportPI": "EPI-86471",
+    "beneficiary": "RDM Group",
+    "openingBank": "American Express Company",
+    "lienBank": "American Express Company",
+    "lienDate": "1-Nov-2023",
+    "rcvTbank": "Bank of Botetourt",
+    "currency": "BDT",
+    "conversionRate": 93.5,
+    "exportAmount": 10,
+    "exportQty": 5,
+    "grossValue": 105.25,
+    "tolerance": 3,
+    "shipDate": "31/12/2023",
+    "exportPurpose": "Washing",
+    "maxImportLimit": 8,
+    "expiryDate": "01-01-2024",
+    "exportNature": "Pre Sales Export LC",
+    "incoterm": "DPU",
+    "incotermPlace": "USA",
+    "freightAmount": 8000,
+    "payTerm": "At Sight",
+    "maturityFrom": "On Board",
+    "tenorDay": 60,
+    "consignees": "KDS",
+    "notifyParty": "Haggar Clothing",
+    "finalDestination": [
+      {
+        "id": 1,
+        "countryName": "USA",
+        "place": "Port of South Louisiana (Laplace, USA)"
+      },
+      {
+        "id": 2,
+        "countryName": "USA",
+        "place": "Port of BEAUMONT (Texas, USA)"
+      }
+    ],
+    "portOfLoading": [
+      {
+        "id": 1,
+        "countryName": "Bangladesh",
+        "place": "Port of Chittagong"
+      },
+      {
+        "id": 2,
+        "countryName": "Bangladesh",
+        "place": "Port of Mongla"
+      }
+    ],
+    "remarks": "The XYZ Product is a feature-rich wearable that combines style with functionality. With its sleek design and advanced style, it's the perfect companion for tech-savvy individuals on the go. Stay connected, monitor your health, and enhance your productivity with this cutting-edge Product.",
+    "isTransShipment": true,
+    "isTransferable": false,
+    "isPartialShipmentAllowed": true,
+    "isForeign": true,
+    "isDiscrepancy": false,
+    "isGroup": true
+  }
+]

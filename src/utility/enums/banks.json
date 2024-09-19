@@ -1,0 +1,675 @@
+[
+  {
+    "id": 1,
+    "Organisation": "AB Bank Limited",
+    "swiftCode": "ABBLBDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 1,
+        "name": "AUSTAGRAM BRANCH",
+        "email": "austmg@abbl.com",
+        "contactPerson": "Emily silva",
+        "branchCode": "4046",
+        "routingNumber": " 020480071",
+        "faxNumber": "(178) 874-7890. 123-456-7810",
+        "contactNumber": "+88-02-9470340",
+        "address": "Mustari Bhaban Jamtoli Austagram Sadar, Kishoreganj"
+      },
+      {
+        "id": 2,
+        "bankId": 1,
+        "name": "Agrabad Branch",
+        "email": "agrmg@abbl.com",
+        "contactPerson": "John doe",
+        "branchCode": "4101",
+        "routingNumber": " 020150130",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "+88-31-713381",
+        "address": "BCIC Sadan, 26, Agrabad C/A, Chattogram"
+      },
+      {
+        "id": 3,
+        "bankId": 1,
+        "name": "Bahaddarhat Branch",
+        "email": "bdhtmg@abbl.com",
+        "contactPerson": "Kamal hossain",
+        "branchCode": "4130",
+        "routingNumber": "020150798",
+        "faxNumber": "(173) 531-7890. 123-456-7833",
+        "contactNumber": "+88-031-650676",
+        "address": "4543, Bahaddarhat, Medina Hotel (1st floor), Chandgaon, Chattogram"
+      },
+      {
+        "id": 4,
+        "bankId": 1,
+        "name": "Banani Branch",
+        "email": "banamg@abbl.com",
+        "contactPerson": "Jamal hossain",
+        "branchCode": "4033",
+        "routingNumber": "020260433",
+        "faxNumber": "(673) 456-7890. 123-478-7844",
+        "contactNumber": "+88-031-650676",
+        "address": "R.S.R. Tower, House No. 50, Road No. 11, Block-C, Banani, Dhaka"
+      },
+      {
+        "id": 5,
+        "bankId": 1,
+        "name": "Bandura Branch",
+        "email": "bndrmg@abbl.com",
+        "contactPerson": "Jamal hossain",
+        "branchCode": "4016",
+        "routingNumber": "020270649",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "+88-38946-84014",
+        "address": "Bandura Govt. Super Market (1st floor), Hasnabad, Nawabgonj, Dhaka"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Organisation": "Agrani Bank Limited",
+    "swiftCode": "AGBKBDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 2,
+        "name": "Agrabad Corporate Branch",
+        "email": "br1016@bangla.net",
+        "contactPerson": "Karim hossain",
+        "branchCode": "9458",
+        "routingNumber": "010150166",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01713253101",
+        "address": "Jahan Building-2, 24, Sheikh Mujib Road, Agrabad, Chattogram"
+      },
+      {
+        "id": 2,
+        "bankId": 2,
+        "name": "Amanat Khan Sarak Branch",
+        "email": "br6190@bangla.net",
+        "contactPerson": "Rarim hossain",
+        "branchCode": "9522",
+        "routingNumber": "010150287",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01713253101",
+        "address": "Amanat Khan Sarak, Chittagong Port, Kotwali, Chittagong"
+      },
+      {
+        "id": 3,
+        "bankId": 2,
+        "name": "Amirabad Branch",
+        "email": "br3911@bangla.net",
+        "contactPerson": "Rahim hossain",
+        "branchCode": "9577",
+        "routingNumber": "010150403",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01713253391",
+        "address": "Amanat Khan Sarak, Chittagong Port, Kotwali, Chittagong"
+      },
+      {
+        "id": 4,
+        "bankId": 2,
+        "name": "Bahaddarhat Branch",
+        "email": "br9527@bangla.net",
+        "contactPerson": "Rahim hossain",
+        "branchCode": "9527",
+        "routingNumber": "010150795",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01713253952",
+        "address": "Bahaddar Hat, Chandgaon, Chittagong"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Organisation": "Al-Arafah Islami Bank Limited",
+    "swiftCode": "ALARBDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 3,
+        "name": "Amborkhana Branch",
+        "email": "br1016@bangla.net",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "015910048",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "Holding#4877,4874 Nabiba Complex Amborkhana, Sylhet."
+      },
+      {
+        "id": 2,
+        "bankId": 3,
+        "name": "Amin Bazar Branch",
+        "email": "br1016@bangla.net",
+        "contactPerson": "A. S. M. GOUCH UDDIN SIDDIQUEE",
+        "branchCode": "9458",
+        "routingNumber": "015260130",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01841123004",
+        "address": "MA Hossain Tower (1st Floor), Amin Bazar, Savar, Dhaka."
+      },
+      {
+        "id": 3,
+        "bankId": 3,
+        "name": "Anderkilla Branch",
+        "email": "br1016@bangla.net",
+        "contactPerson": "JALAL UDDIN AHMED",
+        "branchCode": "9458",
+        "routingNumber": "015260130",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "018192127544",
+        "address": "Anderkilla, Chittagong"
+      },
+      {
+        "id": 4,
+        "bankId": 3,
+        "name": "Matiranga Branch",
+        "email": "br1016@bangla.net",
+        "contactPerson": "MD. KAMAL UDDIN",
+        "branchCode": "9458",
+        "routingNumber": "015460222",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01819175952",
+        "address": "Matiranga, Kagrachari"
+      },
+      {
+        "id": 5,
+        "bankId": 3,
+        "name": "Mirpur Branch",
+        "email": "br1016@bangla.net",
+        "contactPerson": "A. M. M. Arif Billa Mithu",
+        "branchCode": "9458",
+        "routingNumber": "015460222",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01819175952",
+        "address": "Apan Angina , Mirpur City Center(2nd floor) ,3/4 Darus-Salam Road, Mirpur-1, Dhaka-1216."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Organisation": "Bangladesh Commerce Bank Limited",
+    "swiftCode": "BCBLBDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 4,
+        "name": "Barisal Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "030060281",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "Elahi Tower, Holding 523, Ward 8, Bazar Road, Barisal"
+      },
+      {
+        "id": 2,
+        "bankId": 4,
+        "name": "Agrabad Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "030150133",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "Jibon Bima Bhaban, 56 Agrabad C/A, Chittagong"
+      },
+      {
+        "id": 3,
+        "bankId": 4,
+        "name": "Dewanhat Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "030152449",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "Ahmed Mansion, 1128 Sheikh Mujib Road, Dewanhat, Chittagong"
+      },
+      {
+        "id": 4,
+        "bankId": 4,
+        "name": "Khatunganj Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "030154276",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "SW Tower, 304 Lama Bazar, Kotwali, Khatunganj, Chittagong"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Organisation": "Bangladesh Development Bank Limited",
+    "swiftCode": "BDDBBDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 5,
+        "name": "Agrabad Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "047151967",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "BDBL Bhaban, 106 Agrabad, C/A, Chittagong"
+      },
+      {
+        "id": 2,
+        "bankId": 5,
+        "name": "Ashuganj Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "047120101",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "Holding No. 117, Station Road, Ashuganj, Brahmanbaria"
+      },
+      {
+        "id": 3,
+        "bankId": 5,
+        "name": "Cox's Bazar Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "047220256",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "Uma Burmese Market, Main Road, Techpara, Cox's Bazar"
+      },
+      {
+        "id": 4,
+        "bankId": 5,
+        "name": "Elephant Road Branch",
+        "email": "info@bcblbd.com",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "9450",
+        "routingNumber": "047261336",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "0821-720352",
+        "address": "299 Elephant Road, Dhaka"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "Organisation": "Bangladesh Krishi Bank",
+    "swiftCode": "BKBABDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 6,
+        "name": "Bagerhat Branch",
+        "email": "mgrbadhalbazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1408",
+        "routingNumber": "047261336",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "01730708042",
+        "address": "PO: Badhal Bazar, Bagerhat"
+      },
+      {
+        "id": 2,
+        "bankId": 6,
+        "name": "C&B BAZAR Branch",
+        "email": "mgrcnbbazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1421",
+        "routingNumber": "047261336",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "8801730708055",
+        "address": "PO: Rakhalgasi,  Bagerhat Sadar, Bagerhat"
+      },
+      {
+        "id": 3,
+        "bankId": 6,
+        "name": "CHAKSREE BAZAR Branch",
+        "email": "mgrchaksreebazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1411",
+        "routingNumber": "047261336",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "8801730708055",
+        "address": "CHAKSREE BAZAR, Bagerhat"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "Organisation": "Bank Al-Falah Limited",
+    "swiftCode": "ALFHBDDH",
+    "branches": [
+      {
+        "id": 1,
+        "bankId": 7,
+        "name": "Agrabad Branch",
+        "email": "mgrchaksreebazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1411",
+        "routingNumber": "065150137",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "8801730708055",
+        "address": "As-Salam Tower 57, Agrabad C/A, Chittagong"
+      },
+      {
+        "id": 2,
+        "bankId": 7,
+        "name": "Dhanmondi Branch",
+        "email": "mgrchaksreebazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1411",
+        "routingNumber": "065261189",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "8801730708055",
+        "address": "House 81/A, Road 8/A,Satmasjid Road, Dhanmondi, Dhaka 1209"
+      },
+      {
+        "id": 3,
+        "bankId": 7,
+        "name": "Gulshan Branch",
+        "email": "mgrchaksreebazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1411",
+        "routingNumber": "065261189",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "8801730708055",
+        "address": "168 Gulshan Avenue, Dhaka 1212"
+      },
+      {
+        "id": 4,
+        "bankId": 7,
+        "name": "Mirpur Branch",
+        "email": "mgrchaksreebazar@krishibank.org.bd",
+        "contactPerson": "MUHAMMAD WARIS",
+        "branchCode": "1411",
+        "routingNumber": "065262988",
+        "faxNumber": "(123) 456-7890. 123-456-7890",
+        "contactNumber": "8801730708055",
+        "address": "Lakewood Avenue Plot 1, Avenue 1, Block D, Section 11, Mirpur, Dhaka 1216"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "Organisation": "Bank Asia Limited",
+    "swiftCode": "BALBBDDH",
+    "branches": []
+  },
+  {
+    "id": 9,
+    "Organisation": "BASIC Bank Limited",
+    "swiftCode": "BKSIBDDH",
+    "branches": []
+  },
+  {
+    "id": 10,
+    "Organisation": "BRAC Bank Limited",
+    "swiftCode": "BRAKBDDH",
+    "branches": []
+  },
+  {
+    "id": 11,
+    "Organisation": "The City Bank",
+    "swiftCode": "CIBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 12,
+    "Organisation": "Standard Chartered Bank",
+    "swiftCode": "SCBLBDDX",
+    "branches": []
+  },
+  {
+    "id": 13,
+    "Organisation": "Modhumoti Bank Limited",
+    "swiftCode": "MODHBDDH",
+    "branches": []
+  },
+  {
+    "id": 14,
+    "Organisation": "Dhaka Bank Limited",
+    "swiftCode": "DHBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 15,
+    "Organisation": "Dutch-Bangla Bank Limited",
+    "swiftCode": "DBBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 16,
+    "Organisation": "Eastern Bank Limited",
+    "swiftCode": "EBLDBDDH",
+    "branches": []
+  },
+  {
+    "id": 17,
+    "Organisation": "EXIM Bank Limited",
+    "swiftCode": "EXBKBDDH",
+    "branches": []
+  },
+  {
+    "id": 18,
+    "Organisation": "First Security Islami Bank Limited",
+    "swiftCode": "FSEBBDDH",
+    "branches": []
+  },
+  {
+    "id": 19,
+    "Organisation": "Global Islami Bank Limited",
+    "swiftCode": "NGBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 20,
+    "Organisation": "Habib Bank Ltd.",
+    "swiftCode": "HABBBDDH",
+    "branches": []
+  },
+  {
+    "id": 21,
+    "Organisation": "ICB Islamic Bank Ltd.",
+    "swiftCode": "BBSHBDDH",
+    "branches": []
+  },
+  {
+    "id": 22,
+    "Organisation": "IFIC Bank PLC",
+    "swiftCode": "IFICBDDH",
+    "branches": []
+  },
+  {
+    "id": 23,
+    "Organisation": "Islami Bank Bangladesh Ltd",
+    "swiftCode": "IBBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 24,
+    "Organisation": "Jamuna Bank Ltd",
+    "swiftCode": "JAMUBDDH",
+    "branches": []
+  },
+  {
+    "id": 25,
+    "Organisation": "Janata Bank Limited",
+    "swiftCode": "JANBBDDH",
+    "branches": []
+  },
+  {
+    "id": 26,
+    "Organisation": "Meghna Bank Limited",
+    "swiftCode": "MGBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 27,
+    "Organisation": "Mercantile Bank Limited",
+    "swiftCode": "MBLBBDDH",
+    "branches": []
+  },
+  {
+    "id": 28,
+    "Organisation": "Midland Bank Limited",
+    "swiftCode": "MDBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 29,
+    "Organisation": "Mutual Trust Bank Limited",
+    "swiftCode": "MTBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 30,
+    "Organisation": "National Bank Limited",
+    "swiftCode": "NBLBBDDH",
+    "branches": []
+  },
+  {
+    "id": 31,
+    "Organisation": "National Bank of Pakistan",
+    "swiftCode": "NBPABDDH",
+    "branches": []
+  },
+  {
+    "id": 32,
+    "Organisation": "NRB Bank Limited",
+    "swiftCode": "NRBDBDDH",
+    "branches": []
+  },
+  {
+    "id": 33,
+    "Organisation": "NRB Commercial Bank Limited",
+    "swiftCode": "NRBBBDDH",
+    "branches": []
+  },
+  {
+    "id": 34,
+    "Organisation": "One Bank Limited",
+    "swiftCode": "ONEBBDDH",
+    "branches": []
+  },
+  {
+    "id": 35,
+    "Organisation": "Padma Bank Limited",
+    "swiftCode": "FRMSBDDH",
+    "branches": []
+  },
+  {
+    "id": 36,
+    "Organisation": "Premier Bank Limited",
+    "swiftCode": "PRMRBDDH",
+    "branches": []
+  },
+  {
+    "id": 37,
+    "Organisation": "Prime Bank Ltd",
+    "swiftCode": "PRBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 38,
+    "Organisation": "Pubali Bank Limited",
+    "swiftCode": "PUBABDDH",
+    "branches": []
+  },
+  {
+    "id": 39,
+    "Organisation": "Rajshahi Krishi Unnayan Bank",
+    "swiftCode": "RKUBBDDH",
+    "branches": []
+  },
+  {
+    "id": 40,
+    "Organisation": "Rupali Bank Limited",
+    "swiftCode": "RUPBBDDH",
+    "branches": []
+  },
+  {
+    "id": 41,
+    "Organisation": "Shahjalal Islami Bank Limited",
+    "swiftCode": "SJBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 42,
+    "Organisation": "Shimanto Bank Limited",
+    "swiftCode": "SHMTBDDD",
+    "branches": []
+  },
+  {
+    "id": 43,
+    "Organisation": "Social Islami Bank Ltd.",
+    "swiftCode": "SOIVBDDH",
+    "branches": []
+  },
+  {
+    "id": 44,
+    "Organisation": "Sonali Bank Limited",
+    "swiftCode": "BSONBDDH",
+    "branches": []
+  },
+  {
+    "id": 45,
+    "Organisation": "Southeast Bank Limited",
+    "swiftCode": "SEBDBDDH",
+    "branches": []
+  },
+  {
+    "id": 46,
+    "Organisation": "Standard Bank Limited",
+    "swiftCode": "SDBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 47,
+    "Organisation": "State Bank of India",
+    "swiftCode": "SBINBDDH",
+    "branches": []
+  },
+  {
+    "id": 48,
+    "Organisation": "The Hong Kong and Shanghai Banking Corporation. Ltd.",
+    "swiftCode": "HSBCBDDH",
+    "branches": []
+  },
+  {
+    "id": 49,
+    "Organisation": "Trust Bank Limited",
+    "swiftCode": "TTBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 50,
+    "Organisation": "Union Bank Limited",
+    "swiftCode": "UBLDBDDH",
+    "branches": []
+  },
+  {
+    "id": 51,
+    "Organisation": "United Commercial Bank  PLC",
+    "swiftCode": "UCBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 52,
+    "Organisation": "Uttara Bank Limited",
+    "swiftCode": "UTBLBDDH",
+    "branches": []
+  },
+  {
+    "id": 53,
+    "Organisation": "Woori Bank",
+    "swiftCode": "HVBKBDDH",
+    "branches": []
+  }
+]

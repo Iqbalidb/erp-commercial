@@ -1,0 +1,89 @@
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+.tenant-main {
+  position: relative;
+  .company {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+
+      text-decoration: underline;
+      // text-decoration-thicknewess: 2px;
+      text-decoration-style: double;
+      text-decoration-color: $secondary;
+
+      span {
+        font-size: 14px;
+        font-weight: bold;
+        color: $primary;
+      }
+    }
+
+  .tenant {
+    margin-top: 1rem;
+      // margin-right: 9rem !important;
+        margin-left: -7.5rem;
+    position: absolute;
+    min-height: 0px;
+      min-width: 270px;
+      background-color: white;
+        border: 1px solid $gray-100;
+        border-radius: 3%;
+        padding: 0.4rem 0.5rem 0rem 0.5rem;
+
+    .col {
+        padding: 0px;
+      .item {
+          position: relative;
+        width: 100%;
+        min-height: 100px;
+          border: 1px solid $secondary;
+          padding: 0.3rem;
+
+          &.active {
+            border: 1px solid $success;
+          }
+
+          label {
+            font-size: 0.8rem;
+            font-weight: bold;
+          }
+
+          .selected-tenant {
+            top: 0;
+            left: 0;
+            position: absolute;
+
+            .nested {
+              position: relative;
+              padding: 0.2rem;
+
+              .symbol {
+                z-index: 0;
+                top: -9px;
+                left: -4px;
+                position: absolute;
+                font-size: 52px;
+                color: $success;
+              }
+
+              .select-icon {
+                position: absolute;
+                z-index: 1;
+              }
+            }
+          }
+        }
+
+        &:nth-child(even) {
+          padding: 0px 10px 5px 2.5px;
+          // margin: 0px 10px 10px 2.5px;
+        }
+
+        &:nth-child(odd) {
+          padding: 0px 2.5px 5px 10px;
+        }
+
+    }
+  }
+}

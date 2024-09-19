@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "406",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Ali Hossain",
+    "accountNumber": "20507770274048215",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 2,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "406",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Md Elias",
+    "accountNumber": "20507770274042023",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 3,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "406",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Sakibur Rahman",
+    "accountNumber": "20507770274042016",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 4,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "Pahartali Branch, Chattogram",
+    "branchCode": "592",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Kamurl Hossain",
+    "accountNumber": "2050777598628215",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 5,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "Pahartali Branch, Chattogram",
+    "branchCode": "592",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Md Iqbal",
+    "accountNumber": "20507770274458695",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 6,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "Pahartali Branch, Chattogram",
+    "branchCode": "592",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Siam Meah",
+    "accountNumber": "4598756215478965",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 7,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "AD Branch",
+    "branchCode": "304",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Akbor Ali",
+    "accountNumber": "6987546324587695",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 8,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "AD Branch",
+    "branchCode": "304",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Amena Akter",
+    "accountNumber": "2145698753214568",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 9,
+    "bankName": "Islami Bank Bangladesh Limited",
+    "branchName": "AD Branch",
+    "branchCode": "304",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Riye Rahman",
+    "accountNumber": "5874589654123587",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 10,
+    "bankName": "Dutch Bangla Bank limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "639",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Kamal Hossain",
+    "accountNumber": "20507770274041992",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 11,
+    "bankName": "Dutch Bangla Bank limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "639",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Md Alomgir",
+    "accountNumber": "20507770274041988",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 12,
+    "bankName": "Dutch Bangla Bank limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "639",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Shimu Rahman",
+    "accountNumber": "2050777027404525",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 13,
+    "bankName": "The City Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "013",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Jamal Hossain",
+    "accountNumber": "98654789652478562",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 14,
+    "bankName": "The City Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "013",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Md Shohan",
+    "accountNumber": "56324785156987562",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 15,
+    "bankName": "The City Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "013",
+    "accountType": "Savings",
+    "typeCode": "DP",
+    "accountName": "Shimul Ahmed",
+    "accountNumber": "45879856247859657",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 16,
+    "bankName": "Basic Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "08",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Sagor Hossain",
+    "accountNumber": "98569869652478562",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 17,
+    "bankName": "Basic Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "08",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Jamal Uddin",
+    "accountNumber": "56986785156987562",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 18,
+    "bankName": "Basic Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "08",
+    "accountType": "Savings",
+    "typeCode": "DP",
+    "accountName": "Raju Ahmed",
+    "accountNumber": "45879856247569867",
+    "accountOwner": "Supplier"
+  },
+  {
+    "id": 19,
+    "bankName": "Basic Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "245",
+    "accountType": "Deposit",
+    "typeCode": "DP",
+    "accountName": "Rofiq Hossain",
+    "accountNumber": "6985326547895486",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 20,
+    "bankName": "Basic Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "245",
+    "accountType": "Savings",
+    "typeCode": "AC",
+    "accountName": "Shohan",
+    "accountNumber": "4785965874589658",
+    "accountOwner": "Buyer"
+  },
+  {
+    "id": 21,
+    "bankName": "Basic Bank Limited",
+    "branchName": "Agrabad Branch",
+    "branchCode": "245",
+    "accountType": "Savings",
+    "typeCode": "DP",
+    "accountName": "Jalal Ahmed",
+    "accountNumber": "6969595868964521",
+    "accountOwner": "Supplier"
+  }
+]

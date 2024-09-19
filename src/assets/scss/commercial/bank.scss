@@ -1,0 +1,40 @@
+// @import "@styles/base/bootstrap-extended/include";
+// @import "@styles/base/components/include";
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+
+.bank-form-container {
+  padding: 1rem;
+  position: relative;
+  overflow: hidden;
+  margin-top: 3rem;
+
+  .title {
+    display: grid;
+    grid-template-columns: max-content auto;
+    gap: 10px;
+    align-items: center;
+    p {
+      margin: 0;
+      color: $title;
+      font-weight: bold;
+      font-size: 12px;
+    }
+    div {
+      height: 1px;
+      background-color: $border-color;
+      width: 100%;
+    }
+  }
+
+  label {
+    width: 100%;
+    font-weight: bold;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    span {
+      color: $red;
+    }
+  }
+}

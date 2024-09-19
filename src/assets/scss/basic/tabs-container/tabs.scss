@@ -1,0 +1,64 @@
+@import '../../../@core/scss/base/bootstrap-extended/include';
+@import '../../../@core/scss/base/components/include';
+
+.tab-form {
+  display: flex;
+  flex-direction: column;
+
+  // margin-bottom: 15px;
+  .tab-container {
+    overflow-x: auto;
+    overflow-y: hidden;
+    // padding: 5px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    background-color: $tab-bg;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    .slider {
+      position: absolute;
+      clip-path: polygon(0 0, 100% 0, 91% 100%, 0 100%);
+      border: none;
+      outline: none;
+      z-index: -1;
+      background-color: $tab-button;
+      transition: all 0.3s;
+      padding: 6px 10px;
+    }
+    .tab-btn {
+      position: relative;
+      border: none;
+      white-space: nowrap;
+      display: inline-block;
+      background-color: transparent;
+      flex-shrink: 0;
+      // border-radius: 10px;
+      padding: 6px 10px;
+      min-width: 100px;
+      display: block;
+      font-size: 11px;
+      font-weight: bolder;
+      outline: none;
+      transition: all 0.3s ease-in-out;
+      text-transform: uppercase;
+      clip-path: polygon(0 0, 100% 0, 91% 100%, 0 100%);
+    }
+    .active {
+      color: $white;
+    }
+  }
+  .tab-content {
+    position: relative;
+  }
+}
+@media (max-width: 700px) {
+  .tab-form {
+    .tab-container {
+      .tab-btn {
+        font-size: 10px;
+      }
+    }
+  }
+}

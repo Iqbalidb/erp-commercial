@@ -1,0 +1,24 @@
+@import "../../../@core/scss/base/bootstrap-extended/include";
+@import "../../../@core/scss/base/components/include";
+
+.custom-select-component-table {
+  .table-responsive {
+    overflow-x: auto;
+    th {
+      padding: 2px;
+    }
+    .table-row {
+      td {
+        padding: 2px;
+        white-space: nowrap;
+      }
+      &:hover {
+        background-color: $primary;
+        color: $white;
+
+        width: max-content;
+        cursor: pointer;
+      }
+    }
+  }
+}
